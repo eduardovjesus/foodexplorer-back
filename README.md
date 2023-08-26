@@ -20,7 +20,7 @@ ___
 ### 💻 Executando o BackEnd
 ```bash
 # Navegue até o diretório do FrontEnd
-$ cd ./FOOD-EXPLORER-API-MAIN
+$ cd ./foodexplorer-back
 
 # Instale as dependências necessárias
 $ npm install
